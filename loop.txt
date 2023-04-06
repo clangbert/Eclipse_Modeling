@@ -1,0 +1,2 @@
+for sclht in 0 1 2 3 4; do for dense in 0 1 2 3 4 5 6; do for abund in 0 1 2 3 4 5 6; do echo $sclht $dense $abund >> param.txt; sherpa -b mk_bands_spec.py;  done; done; done
+

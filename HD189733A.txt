@@ -1,0 +1,2 @@
+objnam_star,r_star
+HD189733A,0.788

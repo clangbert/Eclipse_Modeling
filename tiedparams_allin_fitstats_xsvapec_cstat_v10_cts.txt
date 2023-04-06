@@ -1,0 +1,27 @@
+datasets       = (1,)
+itermethodname = none
+methodname     = levmar
+statname       = cstat
+succeeded      = True
+parnames       = ('mdl1.kT', 'mdl1.O', 'mdl1.Ne', 'mdl1.Fe', 'mdl1.norm', 'mdl2.kT', 'mdl2.norm')
+parvals        = (0.23876295847177273, 0.20262183906166137, 0.18612678553520995, 0.22542550513729678, 7.583687870205012e-05, 0.6732864817404267, 5.450337065563598e-05)
+statval        = 232.0046690057326
+istatval       = 1238.82680255393
+dstatval       = 1006.8221335481975
+numpoints      = 464
+dof            = 457
+qval           = 1.0
+rstat          = 0.5076688599687803
+message        = successful termination
+nfev           = 96datasets    = (1,)
+methodname  = confidence
+iterfitname = none
+fitname     = levmar
+statname    = cstat
+sigma       = 1
+percent     = 68.26894921370858
+parnames    = ('mdl1.kT', 'mdl1.O', 'mdl1.Ne', 'mdl1.Fe', 'mdl1.norm', 'mdl2.kT', 'mdl2.norm')
+parvals     = (0.23876295847177273, 0.20262183906166137, 0.18612678553520995, 0.22542550513729678, 7.583687870205012e-05, 0.6732864817404267, 5.450337065563598e-05)
+parmins     = (-0.02904762932940469, -0.09327677846816194, None, -0.047262817990001094, -1.8401538792254e-05, -0.056854772238807416, -3.588914868575448e-05)
+parmaxes    = (0.09176415729037471, 0.061217887525742976, 0.1255451844563567, 0.6644436386857787, 5.830774452300341e-05, 0.32089252371754595, 1.4278080223761927e-05)
+nfits       = 131

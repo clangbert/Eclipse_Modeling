@@ -1,0 +1,2 @@
+objnam_planet,sclht,nbase
+HD189733Ab,0.7,2e+11
